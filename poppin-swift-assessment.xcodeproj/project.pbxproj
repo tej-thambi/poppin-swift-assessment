@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		4D35567B2A2060E7005FC72A /* poppin_swift_assessmentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D35567A2A2060E7005FC72A /* poppin_swift_assessmentApp.swift */; };
-		4D35567D2A2060E7005FC72A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D35567C2A2060E7005FC72A /* ContentView.swift */; };
 		4D35567F2A2060E9005FC72A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D35567E2A2060E9005FC72A /* Assets.xcassets */; };
 		4D3556822A2060E9005FC72A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D3556812A2060E9005FC72A /* Preview Assets.xcassets */; };
 		4D35568C2A2060EA005FC72A /* poppin_swift_assessmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D35568B2A2060EA005FC72A /* poppin_swift_assessmentTests.swift */; };
 		4D3556962A2060EA005FC72A /* poppin_swift_assessmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3556952A2060EA005FC72A /* poppin_swift_assessmentUITests.swift */; };
 		4D3556982A2060EA005FC72A /* poppin_swift_assessmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3556972A2060EA005FC72A /* poppin_swift_assessmentUITestsLaunchTests.swift */; };
+		4D3556A42A206497005FC72A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D35567C2A2060E7005FC72A /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D35567D2A2060E7005FC72A /* ContentView.swift in Sources */,
+				4D3556A42A206497005FC72A /* ContentView.swift in Sources */,
 				4D35567B2A2060E7005FC72A /* poppin_swift_assessmentApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
